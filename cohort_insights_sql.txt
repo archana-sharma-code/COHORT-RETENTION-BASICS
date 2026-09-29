@@ -1,0 +1,22 @@
+COHORT RETENTION ANALYSIS INSIGHTS (SQL-BASED)
+============================================================
+
+Average retention across all cohorts:
+  Month 0 (signup month): 100.0%
+  Month 1: 48.5%
+  Month 2: 48.5%
+  Month 3: 50.5%
+  Month 4: 45.3%
+  Month 5: 48.8%
+  Month 6: 45.7%
+  Month 7: 49.6%
+  Month 8: 51.4%
+  Month 9: 48.7%
+  Month 10: 46.1%
+  Month 11: 39.0%
+
+Best performing cohort: 2020-08-01 (avg retention: 100.0%)
+Worst performing cohort: 2020-04-01 (avg retention: 35.2%)
+
+Retention decay from month 0 to month 1: 51.5 percentage points
+6-month retention rate: 45.7%
